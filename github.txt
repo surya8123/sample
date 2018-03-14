@@ -1,0 +1,297 @@
+    1  cd
+    2  git --version
+    3  git config --global user.name sai
+    4  git config --global user.mail saigadu8123@gmail.com
+    5  mkdir newproject
+    6  cd newproject/
+    7  ls
+    8  git init
+    9  ls -lrt
+   10  ls -lrta
+   11  cd .git/
+   12  ls
+   13  git status
+   14  cd
+   15  git status
+   16  cd ../
+   17  ls
+   18  cd 
+   19  cd newproject/
+   20  ls
+   21  git status
+   22  cat > sai1.txt
+   23  ls
+   24  git add *
+   25  git status
+   26  git commit
+   27  git config --global user.email vajralasai@gmail.com
+   28  git config --global user.name sai
+   29  git commit
+   30  git commit
+   31  git commit
+   32  git status
+   33  git commit -a
+   34  git status
+   35  git clone https://github.com/sai81323/hello-world.git
+   36  git init
+   37  cd
+   38  cd newproject/
+   39  ls
+   40  cd hello-world/
+   41  ls
+   42  git init
+   43  git diff
+   44  git diff
+   45  cd 
+   46  git diff
+   47  git diff newproject/ newproject/hello-world/
+   48  git remote 
+   49  cd newproject/
+   50  cd
+   51  git remove newproject/
+   52  git --help
+   53  git rm newproject/
+   54  cd .gitconfig 
+   55  ls
+   56  ls -lrta
+   57  cd .gitconfig 
+   58  git clone https://github.com/sai81323/hello-world.git
+   59  ls
+   60  cd newproject/
+   61  ls
+   62  cd hello-world/
+   63  ls
+   64  ls
+   65   ls
+   66  vim README.md 
+   67  pwd
+   68  cd
+   69  cd hello-world/
+   70  ls
+   71  git status
+   72  git add README.md 
+   73  git status
+   74  git commit -m "this is readme file changed by sai"
+   75  git config --global user.name saivajrala 
+   76  git config --global user.mail vajralasai@gmail.com
+   77  git commit -m "this is readme file changed by sai"
+   78  git init
+   79  git status
+   80  git remote add https://github.com/sai81323/hello-world.git
+   81  git remote add https://github.com/sai81323/hello-world.git
+   82  git remote add https://github.com/sai81323/hello-world.git 
+   83  git push -u origin master
+   84  touch sai
+   85  touch file{1..10}
+   86  ls
+   87  git status
+   88  git add file*
+   89  git statua
+   90  git status
+   91  git commit -m "new files are created by sai"
+   92  git push -u origin master
+   93  $ git remote add file*
+   94  exit\
+   95  exit
+   96  git remote -v
+   97  git clone https://github.com/sai81323/hello-world1.git
+   98  git remote -v
+   99  git config --global iedit
+  100  git config --global -edit
+  101  git config --global --edit
+  102  git add hello-world1/
+  103  cd hello-world1/
+  104  ls
+  105  touch file{1..11}
+  106  ls
+  107  git add *
+  108  git status
+  109  git commit -m "this is new file"
+  110  git push
+  111  git log
+  112  git config --global user.name sai
+  113  git config --global user.mail vajralasai@gmail.com
+  114  git config --global color.ui auto
+  115  git status
+  116  cd 
+  117  mkdir ramraj
+  118  pwd
+  119  cd ramraj/
+  120  ls
+  121  ls -lrt
+  122  git init 
+  123  ls -a
+  124  ls
+  125  ls
+  126  git status
+  127  touch sai{1..23}
+  128  ls
+  129  git add sai*
+  130  git status
+  131  git reset sai23
+  132  git status
+  133  git add sai23
+  134  git status'
+  135  git status
+  136  git reset sai{1..11}
+  137  git status
+  138  git add sai*
+  139  git status
+  140  git diff
+  141  touch ramana
+  142  git status
+  143  git diff
+  144  git add ramana
+  145  git diff --staged
+  146  git 
+  147  git config --global user.name sai
+  148  git config --global user.mail vajralasai@gmail.com
+  149  mkdir ravan
+  150  cd ravan/
+  151  touch leven{1..10}
+  152  ls
+  153  git status
+  154  git init
+  155  git status
+  156  git add leven{1..5}
+  157  git status
+  158  git commit -m "new file it is"
+  159  git status
+  160  git push https://github.com/sai81323/
+  161      git push https://github.com/sai81323/ master
+  162  git remote add origin https://github.com/sai81323/master
+  163  git push https://github.com/sai81323/master
+  164  git push ravan https://github.com/sai81323/master
+  165  git push -u origin master
+  166  git status
+  167  git log
+  168  git diff --stage
+  169  git diff -stage
+  170  git fetch
+  171  git fetch -p
+  172  git push sai8123 master
+  173  git push sai81323 master
+  174  git push https://github.com/sai81323 master
+  175  git push https://github.com/sai81323/rain master
+  176  git push --help
+  177  git push origin master
+  178  git push
+  179  git push -u origin master
+  180  git push -u origin --all
+  181  git remote add origin https://github.com/sai81323/master
+  182  git remote -v
+  183  git push -all
+  184  git push --all
+  185  git push 
+  186  git push --set-upstream origin master 
+  187  exit
+  188  cd ravan/
+  189  cd ravan/
+  190  git push https://github.com/ravan.git master
+  191  exit
+  192  ls
+  193  which git
+  194  git add origin 
+  195  git add origin 
+  196  git config --list
+  197  ls
+  198  git --version
+  199  git config --global user.name sai
+  200  git config --global user.mail saigadu8123@gmail.com
+  201  git clone https://github.com/surya8123/sample.git
+  202  git remote -v
+  203  git init
+  204  git remote -v
+  205  git pull 
+  206  git pull surya8123
+  207  git pull https://github.com/surya8123/sample.git
+  208  ls
+  209  ls sample/
+  210  ls
+  211  ls
+  212  cd sample/
+  213  ls
+  214  touch file{1..10}
+  215  ls
+  216  ls
+  217  git status
+  218  git add file{1..5}
+  219  git status
+  220  git remote -v
+  221  git commit "new files added name of file"
+  222  git commit -m "new files added name of file"
+  223  git push
+  224  git push https://github.com/surya8123/sample.git/
+  225  git config --global user.mail saigadu8123@gmail.com
+  226  git remote add origin https://github.com/surya8123/sample.git
+  227  git push origin master
+  228  git push origin master
+  229  git remote -v
+  230  git remote set-url nenu https://github.com/surya8123/sample.git
+  231  git remote set-url origin https://github.com/surya8123/sample.git
+  232  git remote -v
+  233  git push https://github.com/surya8123/sample.git
+  234  git clone https://github.com/surya8123/sample.git
+  235  git push remote https://github.com/surya8123/sample.git
+  236  git push https://github.com/surya8123/sample.git
+  237  git credential-osxkeychain erase
+  238  git push https://github.com/surya8123/sample.git
+  239  git add *
+  240  git add.
+  241  git add .
+  242  git status
+  243  git commit -m "added new files"
+  244  git log
+  245  git push https://github.com/surya8123/sample.git
+  246  ls
+  247  ls
+  248  ls -la
+  249  cd .git/
+  250  ls
+  251  which git
+  252  git config credential.helper store
+  253  git credential-manager
+  254  git config --system --list 
+  255  git config --system -l
+  256  git config --list
+  257  git config credential.helper ""
+  258  ls
+  259  cd
+  260  cd Saved\ Games/
+  261  l
+  262  touch l{1..10}
+  263  git push https://github.com/surya8123/sample
+  264  ls
+  265  pwd
+  266  ssh-keygen -t rsa -b 4096 -C "saigadu8123@gamil.com"
+  267  cd /c/Users/
+  268  cd Administrator/
+  269  ls
+  270  ls
+  271  cd .ssh/
+  272  ls
+  273  ls
+  274  cd id_rsa.pub 
+  275  cat id_rsa.pub 
+  276  git clone https://github.com/surya8123/sample.git
+  277  ls
+  278  cd sample/
+  279  ls
+  280  ls
+  281  git status
+  282  touch new{1..5}
+  283  ls
+  284  ls
+  285  git status
+  286  git add *
+  287  git status
+  288  git status
+  289  git commit -m "new files"
+  290  git log
+  291  git log -1
+  292  git log -oneline
+  293  git log --oneline
+  294  git log --oneline
+  295  git remote -v
+  296  git push https://github.com/surya8123/sample.git
+  297  history > github.txt
